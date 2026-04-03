@@ -28,7 +28,6 @@ Frontend → Java Backend (Spring Boot) → Python AI Service (FastAPI)
 * **Frontend** displays results and dashboards
 
 ---
-
 ## ⚙️ Tech Stack
 
 ### 🔵 Backend
