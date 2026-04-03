@@ -97,7 +97,6 @@ uvicorn main:app --reload
 * Role-based interview customization
 
 ---
-
 ## 👥 Contributors
 
 * Supesh Chavhan (Project Owner)
